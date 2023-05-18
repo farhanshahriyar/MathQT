@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "question": "What is 5+3?",
+      "options": ["6", "8", "10", "9"],
+      "answer": "8",
+      "description": "This is a simple addition problem in arithmetic."
+    },
+    {
+      "id": 2,
+      "question": "What is the square root of 81?",
+      "options": ["7", "9", "8", "10"],
+      "answer": "9",
+      "description": "The square root of a number is a value that, when multiplied by itself, gives the original number."
+    },
+    {
+      "id": 3,
+      "question": "What is 4 * 6?",
+      "options": ["18", "24", "22", "26"],
+      "answer": "24",
+      "description": "This is a multiplication problem in arithmetic."
+    },
+    {
+      "id": 4,
+      "question": "What is 10/2?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "5",
+      "description": "This is a division problem in arithmetic."
+    },
+    {
+      "id": 5,
+      "question": "What is the square of 7?",
+      "options": ["49", "42", "56", "50"],
+      "answer": "49",
+      "description": "The square of a number is that number multiplied by itself."
+    },
+    {
+      "id": 6,
+      "question": "If y=3x and x=4, what is y?",
+      "options": ["6", "7", "12", "8"],
+      "answer": "12",
+      "description": "This is a basic algebraic substitution problem."
+    }
+  ]
+  
